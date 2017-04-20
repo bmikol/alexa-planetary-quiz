@@ -1,30 +1,40 @@
-AnswerIntent {StateName}
-AnswerIntent {Capital}
-AnswerIntent {StatehoodYear}
-AnswerIntent {StatehoodOrder}
-AnswerIntent {Abbreviation}
+AnswerIntent {PlanetName}
+AnswerIntent {Namesake}
+AnswerIntent {DiscoveryYear}
+AnswerIntent {OrbitalPeriod}
+AnswerIntent {Location}
+AnswerIntent {Size}
+AnswerIntent {SurfaceGravity}
 
-AnswerIntent tell me about {StateName}
-AnswerIntent tell me about {Capital}
-AnswerIntent tell me about {StatehoodYear}
-AnswerIntent tell me about {StatehoodOrder}
-AnswerIntent tell me about {Abbreviation}
+AnswerIntent tell me about {PlanetName}
+AnswerIntent tell me about {Namesake}
+AnswerIntent tell me about {DiscoveryYear}
+AnswerIntent tell me about {OrbitalPeriod}
+AnswerIntent tell me about {Location}
+AnswerIntent tell me about {Size}
+AnswerIntent tell me about {SurfaceGravity}
 
-AnswerIntent what do you know about {StateName}
-AnswerIntent what do you know about {Capital}
-AnswerIntent what do you know about {StatehoodYear}
-AnswerIntent what do you know about {StatehoodOrder}
-AnswerIntent what do you know about {Abbreviation}
+AnswerIntent what do you know about {PlanetName}
+AnswerIntent what do you know about {Namesake}
+AnswerIntent what do you know about {DiscoveryYear}
+AnswerIntent what do you know about {OrbitalPeriod}
+AnswerIntent what do you know about {Location}
+AnswerIntent what do you know about {Size}
+AnswerIntent what do you know about {SurfaceGravity}
 
-AnswerIntent {StateName} information
-AnswerIntent {Capital} information
-AnswerIntent {StatehoodYear} information
-AnswerIntent {StatehoodOrder} information
-AnswerIntent {Abbreviation} information
+AnswerIntent {PlanetName} information
+AnswerIntent {Namesake} information
+AnswerIntent {DiscoveryYear} information
+AnswerIntent {OrbitalPeriod} information
+AnswerIntent {Location} information
+AnswerIntent {Size} information
+AnswerIntent {SurfaceGravity} information
 
 QuizIntent start a quiz
 QuizIntent start a quiz game
+QuizIntent start quiz
+QuizIntent start game
+QuizIntent quiz me
 QuizIntent and start a quiz
-QuizIntent and quiz me
-QuizIntent for a quiz
 QuizIntent a quiz
+QuizIntent play a game
